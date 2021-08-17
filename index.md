@@ -1,10 +1,10 @@
 ## Deep Generative Models and Downstream Applications Workshop
 
-#About - #Accepted Papers - [Schedule](#schedule) - [Poster Session](#poster-session)
+#About - #Accepted Papers - [Schedule](-schedule) - [Poster Session](#poster-session)
 
 
 
-### [Schedule]
+### -Schedule 
 
 See schedule here
 
