@@ -31,17 +31,17 @@ Join the Postersession via Gathertown
 
 Deep generative models (DGMs) have become an important branch of deep learning which now includes methods such as variational autoencoders, generative adversarial networks, normalizing flows, energy based models and autoregressive models. Many of these methods have been shown to achieve state-of-the-art results in the generation of synthetic data such as text, speech, images, music, molecules, etc. However, besides just generating synthetic data, DGMs are of relevance in practical downstream applications. A few examples are
 
-- Imputation and acquisition of missing data [12,1]
-- Anomaly detection [2]
-- Data denoising [11]
-- Compressed sensing [10]
-- Image compression [3,4]
-- Image super-resolution [5]
-- Molecule optimization [6]
-- Interpretation of machine learning methods [7]
-- One-shot generation of low-energy molecular structures [8]
-- Computation of free-energy differences between molecular states [8]
-- Estimating intervention effects from observational data [9]
+- Imputation and acquisition of missing data
+- Anomaly detection
+- Data denoising
+- Compressed sensing
+- Image compression
+- Image super-resolution
+- Molecule optimization
+- Interpretation of machine learning methods
+- One-shot generation of low-energy molecular structures
+- Computation of free-energy differences between molecular states
+- Estimating intervention effects from observational data
 
 Despite such important application areas, advances in DGMs are typically quantified using general metrics such as test log-likelihood, conditional data reconstruction error, inception scores or visual inspection of the generated samples. These metrics are useful for justifying gains with
 respect to baselines when no specific application is in mind, but they may also be poor indicators of performance in practical downstream applications.
@@ -53,32 +53,27 @@ In a highly interactive format, we will outline the current frontiers of practic
 be benchmarked. The program is a collection of invited talks, alongside contributed posters. A panel discussion will provide different perspectives and experiences of influential researchers and also engage in open participant conversation. An expected outcome of this workshop is the
 interdisciplinary exchange of ideas and initiation of collaborations.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Workshop Registration
 
-```markdown
-Syntax highlighted code block
+Details to be updated.
 
-# Header 1
-## Header 2
-### Header 3
+## Call for Papers
 
-- Bulleted
-- List
+### Submission Instructions
 
-1. Numbered
-2. List
+## Important Dates
 
-**Bold** and _Italic_ and `Code` text
+Details to be updated.
 
-[Link](url) and ![Image](src)
-```
+## Organizing Committee and Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For questions, please contact kc429@cam.ac.uk
 
-### Jekyll Themes
+- Cheng Zhang
+- Yingzhen Li
+- José Miguel Hernández Lobato
+- Weiwei Pan
+- Yichuan Zhang
+- Austin Tripp
+- Oren Ripple
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kc429/Deep-generative/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
