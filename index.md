@@ -4,7 +4,7 @@
 
 
 
-### #Schedule
+### [Schedule]
 
 See schedule here
 
