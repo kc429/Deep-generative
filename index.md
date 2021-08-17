@@ -1,10 +1,10 @@
 ## Deep Generative Models and Downstream Applications Workshop
 
-About - Accepted Papers - Schedule - Postersession
+#About - #Accepted Papers - [Schedule](#schedule) - [Poster Session](#poster-session)
 
 
 
-### Schedule
+### #Schedule
 
 See schedule here
 
@@ -23,7 +23,7 @@ List of Keynote Abstracts
 - Zhifeng Kong (University of California)
 - Finale Doshi (Harvard University)
 
-### Poster Session
+### #Poster Session
 
 Join the Postersession via Gathertown
 
