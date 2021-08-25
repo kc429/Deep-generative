@@ -6,7 +6,7 @@
 
 ### Schedule 
 
-[See NeurIPS website] (https://neurips.cc)
+[See NeurIPS website](https://neurips.cc)
 
 ### Invited Speakers
 
@@ -25,7 +25,7 @@ List of Keynote Abstracts
 
 ### Poster Session
 
-Join the Postersession via [GatherTown] (https://www.gather.town) (via NeurIPS SSO login)
+Join the Postersession via [GatherTown](https://www.gather.town) (via NeurIPS SSO login)
 
 ### About
 
@@ -53,9 +53,9 @@ In a highly interactive format, we will outline the current frontiers of practic
 be benchmarked. The program is a collection of invited talks, alongside contributed posters. A panel discussion will provide different perspectives and experiences of influential researchers and also engage in open participant conversation. An expected outcome of this workshop is the
 interdisciplinary exchange of ideas and initiation of collaborations.
 
-### Workshop Registration
+### NeurIPS 2021 and Registration
 
-Details to be updated.
+The Deep Generative Models and Downstream Applications Workshop will be held on       as a part of the 35th Annual Conference on Neural Information Processing Systems. Originally planned to be in Vancouver, NeurIPS 2020 and this workshop will take place entirely virtually (online). Please use the main conference [website](https://neurips.cc) to register for the workshop.
 
 ## Call for Papers
 
@@ -87,7 +87,7 @@ will be June 15, 2021.
 
 ## Organizing Committee and Contact
 
-For questions, please contact [kc429@cam.ac.uk] (kc429@cam.ac.uk)
+For questions, please contact [kc429@cam.ac.uk](kc429@cam.ac.uk)
 
 - Cheng Zhang
 - Yingzhen Li
