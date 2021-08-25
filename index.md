@@ -76,7 +76,7 @@ We invite submissions that either address new problems and provide insights or p
 
 ### Submission Instructions
 
-Submissions should be no longer than 10 pages in any format. Submissions will be accepted as contributed talks or poster presentations. Extended abstracts should be submitted by Sep 177, 2021; see website for submission details. Final versions will be posted on the workshop website (and are archival but do not constitute a proceedings). Global Notification Deadline
+Submissions should be no longer than 10 pages in any format. Submissions will be accepted as contributed talks or poster presentations. Extended abstracts should be submitted by Sep 17, 2021; see website for submission details. Final versions will be posted on the workshop website (and are archival but do not constitute a proceedings). Global Notification Deadline
 will be June 15, 2021.
 
 ## Important Dates
