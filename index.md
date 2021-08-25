@@ -81,9 +81,9 @@ will be June 15, 2021.
 
 ## Important Dates
 
--Submission Date for Workshop Contributions: Sep 17, 2021 23:59 Anywhere on earth
--Author notification: Oct 22, 2021
--Workshop: 
+- Submission Date for Workshop Contributions: Sep 17, 2021 23:59 Anywhere on earth
+- Author notification: Oct 22, 2021
+- Workshop:
 
 ## Organizing Committee and Contact
 
