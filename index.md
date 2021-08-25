@@ -6,7 +6,7 @@
 
 ### Schedule 
 
-See schedule here
+[See NeurIPS website] (https://neurips.cc)
 
 ### Invited Speakers
 
@@ -25,7 +25,7 @@ List of Keynote Abstracts
 
 ### Poster Session
 
-Join the Poster session via Gathertown
+Join the Postersession via [GatherTown] (https://www.gather.town) (via NeurIPS SSO login)
 
 ### About
 
@@ -59,15 +59,35 @@ Details to be updated.
 
 ## Call for Papers
 
+The 2021 NeurIPS Workshop on Deep Generative Models and Downstream Applications is calling for contributions in the area of deep generative modeling, with a view on using these methods to solve real-world problems with practical impact. We invite researchers to submit methodological contributions in either variational autoencoders, flows, autoregressive
+models, energy based models or GANs, as well as applications of these methods to specific real-world problems. Potential applications include but are not limited to the following areas: 
+- imputation and acquisition of missing data
+- anomaly detection
+- data denoising
+- compressedsensing
+- data compression
+- image super-resolution
+- molecule optimization
+- interpretation of machine learning methods
+- identifying causal structures in data
+- generation of molecular structures, etc. 
+
+We invite submissions that either address new problems and provide insights or present progress on established problems. The workshop includes a poster session, which will be held online, giving the opportunity to present novel ideas and ongoing projects.
+
 ### Submission Instructions
+
+Submissions should be no longer than 10 pages in any format. Submissions will be accepted as contributed talks or poster presentations. Extended abstracts should be submitted by Sep 177, 2021; see website for submission details. Final versions will be posted on the workshop website (and are archival but do not constitute a proceedings). Global Notification Deadline
+will be June 15, 2021.
 
 ## Important Dates
 
-Details to be updated.
+-Submission Date for Workshop Contributions: Sep 17, 2021 23:59 Anywhere on earth
+-Author notification: Oct 22, 2021
+-Workshop: 
 
 ## Organizing Committee and Contact
 
-For questions, please contact kc429@cam.ac.uk
+For questions, please contact [kc429@cam.ac.uk] (kc429@cam.ac.uk)
 
 - Cheng Zhang
 - Yingzhen Li
